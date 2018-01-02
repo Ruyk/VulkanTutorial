@@ -1,1 +1,6 @@
 *.html
+/VulkanTutorial/x64/Debug/vc141.idb
+/VulkanTutorial/x64/Debug/VulkanTutorial.tlog
+/VulkanTutorial/Debug/VulkanTutorial.tlog
+/VulkanTutorial/Debug/vc141.idb
+/.vs/VulkanTutorial/v15
